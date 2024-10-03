@@ -29,4 +29,4 @@ You can view a demo of the system here: [VVIT College Event Management Demo](htt
 1. Clone the repository from GitHub:
 
    ```bash
-   git clone https://github.com/yourusername/vvit-event-management.git
+   git clone https://github.com/Nayeem-stud/VVIT-Events.git
